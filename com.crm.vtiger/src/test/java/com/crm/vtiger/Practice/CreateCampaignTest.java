@@ -13,6 +13,10 @@ public class CreateCampaignTest {
 		System.out.println("campaign 1 created");
 	}
 	@Test
+	public void createCampaign10() {
+		System.out.println("campaign 10 created");
+	}
+	@Test
 	public void createCampaign2() {
 		System.out.println("campaign  2 created");
 	
