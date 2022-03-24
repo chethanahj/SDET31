@@ -14,6 +14,8 @@ public class CloseApplicationTest {
 		System.out.println("Application is deleted");
 		System.out.println("Application is deleted");
 		System.out.println("Application is deleted");
+		
+		System.out.println("Application is deleted");
 	
 		
 	}
