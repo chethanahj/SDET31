@@ -23,6 +23,11 @@ public class CloseApplicationTest {
     @Test
  	public void deleteApplication1() {
  		System.out.println("Application 1 is deleted");
+ 		
+ 		
+ 		
+ 		
+ 		
 
 }
 }
