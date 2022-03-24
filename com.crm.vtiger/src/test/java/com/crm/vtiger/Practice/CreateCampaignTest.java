@@ -8,4 +8,8 @@ public class CreateCampaignTest {
 	public void createCampaign() {
 		System.out.println("campaign created");
 	}
+	@Test
+	public void createCampaign1() {
+		System.out.println("campaign 1 created");
+	}
 }
