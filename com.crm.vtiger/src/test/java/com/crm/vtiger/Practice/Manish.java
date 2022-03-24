@@ -9,7 +9,8 @@ public class Manish {
 	{
 		System.out.println("hello");
 		
-		
+		System.out.println("hello");
+		System.out.println("hello");
 		
 		
 		
