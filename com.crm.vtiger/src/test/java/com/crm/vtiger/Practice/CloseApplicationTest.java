@@ -13,13 +13,6 @@ public class CloseApplicationTest {
 		System.out.println("Application is deleted");
 	
 		
-	
-		
-	}
-    
-    @Test
-   	public void deleteApplicatio() {
-   		System.out.println("Application");
    	
    		
    	}
