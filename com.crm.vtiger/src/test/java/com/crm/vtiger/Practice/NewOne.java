@@ -14,7 +14,11 @@ public class NewOne {
 	public void newSecond() {
 		System.out.println("new second added");
 	}
-	
-	
-	
+	@Test
+ public void heloooooooo() {
+	 System.out.println(":)");
+	}
 }
+	
+	
+
