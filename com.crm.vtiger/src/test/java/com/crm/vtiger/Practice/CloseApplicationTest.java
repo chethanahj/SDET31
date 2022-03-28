@@ -6,6 +6,8 @@ public class CloseApplicationTest {
 	@Test
 	public void closeApplication() {
 		System.out.println("Application is closed");
+		
+		
 	}
 	
 	@Test
