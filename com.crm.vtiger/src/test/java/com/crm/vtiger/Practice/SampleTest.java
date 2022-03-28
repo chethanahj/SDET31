@@ -6,5 +6,6 @@ public class SampleTest {
 	@Test
 	public void closeApplication() {
 		System.out.println("sample is closed");
+		System.out.println("sample is closed");
 	}
 }
