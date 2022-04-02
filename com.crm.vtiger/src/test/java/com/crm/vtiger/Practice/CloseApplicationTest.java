@@ -8,6 +8,8 @@ public class CloseApplicationTest {
 		System.out.println("Application is closed");
 		
 		
+		
+		
 	}
 	
 	@Test
