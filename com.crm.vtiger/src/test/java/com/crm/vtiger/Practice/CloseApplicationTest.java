@@ -13,6 +13,14 @@ public class CloseApplicationTest {
 	}
 	
 	@Test
+	public void closeApplicationaaa() {
+		System.out.println("Application is closed");
+		
+		
+		
+		
+	}
+	@Test
 	public void closeApplication2() {
 		System.out.println("Application 2 is closed");
 	}
