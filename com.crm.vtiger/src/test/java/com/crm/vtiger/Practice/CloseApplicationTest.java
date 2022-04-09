@@ -15,6 +15,7 @@ public class CloseApplicationTest {
 	@Test
 	public void closeApplicationaaa() {
 		System.out.println("Application is closed");
+		System.out.println("Application is closed");
 		
 		
 		
