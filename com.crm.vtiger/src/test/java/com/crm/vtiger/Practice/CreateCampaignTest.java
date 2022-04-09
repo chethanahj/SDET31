@@ -8,7 +8,7 @@ public class CreateCampaignTest {
 	public void createCampaign() {
 		System.out.println("campaign created");
 		System.out.println("campaign created");
-		
+		System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
 		
 		
 		
