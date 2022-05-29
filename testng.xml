@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite2">
+  <test thread-count="5" name="method1Only">
+    <classes>
+      <class name=".Test100Method1Method"/>
+    </classes>
+  </test> <!-- Test2100Methods -->
+</suite> <!-- Suite2 -->
