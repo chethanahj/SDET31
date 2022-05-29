@@ -3,7 +3,7 @@ public class AA2 {
 
 	public static void main(String[] args) {
 		
-	String s="a2b3c2";
+	String s="a2b3c2" ;
 	
 	for(int i=0 ;i<s.length();i++)
    {
